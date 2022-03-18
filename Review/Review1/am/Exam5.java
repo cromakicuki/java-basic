@@ -19,7 +19,6 @@ public class Exam5 {
         // }
 
         int a = 2;
-        
         while (a < 10) {
             int b = 1;
             while (b < 10) {
